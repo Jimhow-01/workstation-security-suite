@@ -1,0 +1,13 @@
+psutil
+pywin32
+requests
+selenium
+webdriver-manager
+watchdog
+websocket-client
+cryptography
+wmi
+schedule
+PyAutoGUI
+pygame
+pynput
